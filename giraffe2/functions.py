@@ -14,3 +14,8 @@ def sayhi(name, age):
 
 sayhi("Jake", " 35")
 sayhi("Nazifa", "27")
+
+number_sets= 3
+def findsumsubsets(n):
+    print(findsumsubsets(n))
+findsumsubsets(3)
